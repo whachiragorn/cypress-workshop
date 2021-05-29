@@ -1,0 +1,8 @@
+{
+
+    "scripts": {
+        "cypress:open": "cypress open"
+    },
+      
+    "projectId": "66ambd"
+}
